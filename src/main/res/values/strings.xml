@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyAdapter Demo</string>
+    <string name="my_name_string">My name is %s!</string>
+    <string name="tab_1_name">Girls</string>
+    <string name="tab_2_name">Boys</string>
+    <string name="action_settings">action_settings</string>
+    <string name="ok">OK</string>
+
+</resources>
